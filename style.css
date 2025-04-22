@@ -169,8 +169,8 @@ body {
   .container {
     grid-template-columns: repeat(4, 1fr);
     gap: 2rem;
-    margin: 9rem auto;
-    max-width: 1200px;
+    margin: 11rem auto;
+    max-width: 1160px;
   }
 
   .card:first-child {
